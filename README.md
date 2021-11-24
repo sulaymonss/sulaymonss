@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# I'm a Frontend Developer
+
+
+[![Sulaymon's github stats ](https://github-readme-stats.vercel.app/api?username=sulaymonss&show_icons=true&theme=dark)](https://github.com/sulaymonss/) ]
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
